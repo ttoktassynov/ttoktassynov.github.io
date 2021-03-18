@@ -38,7 +38,7 @@ This web application enables users to query real-time stock quotes from [iexapis
 - **Technologies used:** Flask, HTML, CSS, Heroku, PostgreSQL, Gunicorn
 
 **Search Engine** @ [seach_engine](https://github.com/ttoktassynov/search_engine) *(Apr 2020 - Apr 2020)*
-This console application that enables users to add documents of words to database and perform queries
+This console application is a *ranked boolean retrieval model*, i.e. the matched documents are ranked according to sum of query terms frequencies
 
 - Decreased time complexity of search queries by 16 times via storing search results in *vector* instead of *ordered map*
 - Implemented *multi-threading* and maintained the index safe-thread via *mutexes* for database updates and search queries
