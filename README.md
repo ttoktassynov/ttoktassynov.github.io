@@ -12,7 +12,12 @@
 
 - **Core modules**: Tools and Environments, Requirements Engineering, Validation and Verification, System Integration
 - **Electives**: Networked Systems, Information Retrieval and Data Mining
-- **Courseworks**: supporting name resolutions in DNS and avoiding overloads, adjusting forwarding in LAN and fine-tuning in WAN,  improving test suite quality of Apache Commons Collection using mutation testing
+- **Courseworks**: 
+  - supporting name resolutions in DNS and avoiding overloads
+  - adjusting forwarding in LAN and fine-tuning in WAN
+  - improving test suite quality of Apache Commons Collection using mutation testing
+  - developed document ranking system based on BM25, vector space and language models
+  - implemented client-server banking application using design by contract concept in Python
 
 **Master of Science** in Information Systems<br/>
 [Eurasian National University](https://enu.kz/en/) *(Sep 2014 - Sep 2016)* GPA - 3.71/4.0
