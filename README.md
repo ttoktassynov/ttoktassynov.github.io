@@ -87,3 +87,10 @@ This application is able to store bus stops and routes and identify shortest tri
 **Won silver medal** at 4th [International Zhautykov Olympiad](https://izho.kz/) on Physics, top 20 out of 100 participants
 
 **Won silver medal** at Republican Physics Competition, top 5 out of 340 participants
+
+### Volunteering
+
+**Team lead** @ Food Poverty Hackathon *(Sep 2020 - Sep 2020)*
+Food Poverty Hackathon by [UCL](https://ucl.ac.uk) and [Trussels Trust](https://www.trusselltrust.org/) aiming to make food banks more accessible
+
+- Team work: lead a team of 9 students to design a [prototype](https://www.figma.com/file/aD194YUNqcUwV7SWhX957X/Easy-cooking?node-id=0%3A1) of mobile application to make food cooking easier for food bank receivers
