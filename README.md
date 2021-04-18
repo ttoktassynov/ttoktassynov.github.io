@@ -14,7 +14,7 @@
 - **Electives**: Networked Systems, Information Retrieval and Data Mining
 - **Courseworks**: 
   - supporting name resolutions in DNS and avoiding overloads
-  - adjusting forwarding in LAN and fine-tuning in WAN
+  - adjusting forwarding in LAN and fine-tuning routing in WAN
   - improving test suite quality of Apache Commons Collection using mutation testing
   - developed document ranking system based on BM25, vector space and language models
   - implemented client-server banking application using design by contract concept in Python
