@@ -35,6 +35,13 @@ GPA - 3.82/4.0
 
 ### Projects
 
+**Guest Book** @ [guestbook](https://github.com/ttoktassynov/guestbook) *(May 2021)*
+This web application enables users to add themselves to the guest list, register guest arrivales, leaves and cound empty seats at the tables.
+
+- Taught myself go lang to implement a web guest book application with multiple endpoints, e.g. add to guest list,
+guest arrives and leaves and deployed it on [Heroku](https://guestlist21.herokuapp.com)
+- **Technologies used:** REST API, Go lang, MySQL
+
 **Stock trading** @ [finance](https://github.com/ttoktassynov/finance) *(Feb 2021 - Mar 2021)*
 This web application enables users to query real-time stock quotes from [iexapis API](https://cloud.iexapis.com/) and trade them using virtual cash
 
