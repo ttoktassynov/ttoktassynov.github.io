@@ -1,6 +1,6 @@
 ## Timur Toktassynov
 
-*Software Engineer, based in London.*
+*Intern Software Engineer, based in Cambridge.*
 
 [Email](mailto:timur.toktassynov@gmail.com) / [LinkedIn](https://linkedin.com/in/ttoktassynov) / [GitHub](https://github.com/ttoktassynov) / 
 [Twitter](https://twitter.com/ttoktassynov)
@@ -8,7 +8,7 @@
 ### Education
 
 **Master of Science** in Software Systems Engineering<br/>
-[University College London](https://ucl.ac.uk) *(Sep 2020 - Present)*
+[University College London](https://ucl.ac.uk) *(Sep 2020 - Sep 2021)*
 
 - **Core modules**: Tools and Environments, Requirements Engineering, Validation and Verification, System Integration
 - **Electives**: Networked Systems, Information Retrieval and Data Mining
@@ -30,10 +30,19 @@ GPA - 3.82/4.0
 
 ### Skills
 
-- **Technologies and frameworks:** Java, Python, C, C++, SQL, HTML, CSS, React, Flask, JUnit, Git, Maven, Pitest, Gzoltar
+- **Technologies and frameworks:** Java, Python, C++, SQL, HTML, CSS, Flask, JUnit, Git, Maven, Pitest, Gzoltar
 - **Languages**: English - fluent, Russian - fluent, Kazakh - native, French - conversational
 
 ### Projects
+
+**IBM Node Red Quantum** @ [nodred_quantum](https://github.com/node-red-quantum/node-red-contrib-quantum}) *(June 2021 - Aug 2021)*
+Designed communication API between node's runtime and editor that enabled correct configuration of core nodes, increased test coverage of the test suite by 25%
+- **Technologies used:** Qiskit, Python, Node Red, Node.js
+
+**Gryadki admin** *(May 2021 - June 2021)*
+Taught myself Node.js framework and implemented 35 REST API endpoints for managing remote garden application and compiled OpenAPI
+[documentation](https://api.admin.gryadki.kz/openapi.html) on Swagger
+- **Technologies used:** Node.js, REST API, Javascript, Koa, PostreSQL, Docker
 
 **Guest Book** @ [guestbook](https://github.com/ttoktassynov/guestbook) *(May 2021)*
 This web application enables users to add themselves to the guest list, register guest arrivales, leaves and cound empty seats at the tables.
@@ -64,6 +73,12 @@ This application is able to store bus stops and routes and identify shortest tri
 - **Technologies used:** C++, JSON, Graph
 
 ### Working Experience
+
+**Intern Software Developer** @ [InMusic Europe Ltd](https://www.inmusicbrands.com/) *(Sep 2021 - Present)*
+
+- Decreased 6 system test execution time from 25 min to 22 sec by automating software regression tests using custom testing framework
+- Contributed to custom testing framework by factoring out common testing functions. Stack: Javascript, C++
+
 
 **Co-Founder** @ [Masterslova](https://masterslova.kz) *(Feb 2018 - Aug 2020)*
 16-hour public speaking course for entrepreneurs, managers
