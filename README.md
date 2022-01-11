@@ -55,7 +55,7 @@ guest arrives and leaves and deployed it on [Heroku](https://guestlist21.herokua
 This web application enables users to query real-time stock quotes from [iexapis API](https://cloud.iexapis.com/) and trade them using virtual cash
 
 - Taught myself a flask framework and implemented user authorization as well as portfolio, transaction history, buy and sell views
-- Deployed this application to [Heroku](https://tima-finance-app.herokuapp.com) to serve requests via Gunicorn
+- Deployed this application to [Heroku](http://stocktrading21.herokuapp.com/) to serve requests via Gunicorn
 - **Technologies used:** Flask, HTML, CSS, Heroku, PostgreSQL, Gunicorn
 
 **Search Engine** @ [seach_engine](https://github.com/ttoktassynov/search_engine) *(Apr 2020 - Apr 2020)*
