@@ -27,26 +27,14 @@ GPA - 3.82/4.0
 
 ### Skills
 
-- **Technologies and frameworks:** Java, Python, C++, SQL, HTML, CSS, Flask, JUnit, Git, Maven, Pitest, Gzoltar
-- **Languages**: English - fluent, Russian - fluent, Kazakh - native, French - conversational
+- **Technologies and frameworks:** Java, Python, C++, SQL, HTML, CSS, Flask, JUnit, Git, Maven
+- **Languages**: English - fluent, Russian - fluent, Kazakh - native
 
 ### Projects
 
 **IBM Node Red Quantum** @ [nodred_quantum](https://github.com/node-red-quantum/node-red-contrib-quantum}) *(June 2021 - Aug 2021)*
 Designed communication API between node's runtime and editor that enabled correct configuration of core nodes, increased test coverage of the test suite by 25%
 - **Technologies used:** Qiskit, Python, Node Red, Node.js
-
-**Gryadki admin** *(May 2021 - June 2021)*
-Taught myself Node.js framework and implemented 35 REST API endpoints for managing remote garden application and compiled OpenAPI
-[documentation](https://api.admin.gryadki.kz/openapi.html) on Swagger
-- **Technologies used:** Node.js, REST API, Javascript, Koa, PostreSQL, Docker
-
-**Guest Book** @ [guestbook](https://github.com/ttoktassynov/guestbook) *(May 2021)*
-This web application enables users to add themselves to the guest list, register guest arrivales, leaves and cound empty seats at the tables.
-
-- Taught myself go lang to implement a web guest book application with multiple endpoints, e.g. add to guest list,
-guest arrives and leaves and deployed it on [Heroku](https://guestlist21.herokuapp.com)
-- **Technologies used:** REST API, Go lang, MySQL
 
 **Stock trading** @ [finance](https://github.com/ttoktassynov/finance) *(Feb 2021 - Mar 2021)*
 This web application enables users to query real-time stock quotes from [iexapis API](https://cloud.iexapis.com/) and trade them using virtual cash
@@ -90,13 +78,7 @@ This application is able to store bus stops and routes and identify shortest tri
 - Organizational skills: arranged classes for student groups liaising with community coworkings. This resulted to 240+ trained students
 - Client service: exceeded monthly sales target by 3.5 times reaching 2700 USD in February 2020 through actively listening, responding quickly to needs of business clients
 - **Technologies used:** Wordpress, HTML, CSS, SEO
-
-**Professional Fellow** @ [University of Oklahoma](https://www.ou.edu/gaylord) *(Oct 2018 - Nov 2018)*
-
-- Participated in software engineering stand ups and interviewed managers on various business aspects of [Oserberg](https://www.oseberg.io/) and [Pinnacle](https://pbsnow.com/)
-- Proposed recommendations on improving master data normalization scripts for data from public regulatory filings of Oseberg startup
-
-
+- 
 **Information Technology Architect** @ [KazMunayGas Global Solutions B.V.](https://kmg.kz) *(Sep 2016 - Jun 2017)*
 
 - Delivered integration and configuration of corporate oil and gas accounting system for 200+ users, which led to decrease of production data discrepancy by 1.5%
