@@ -1,9 +1,6 @@
 ## Timur Toktassynov
 
-*Intern Software Engineer, based in Cambridge.*
-
-[Email](mailto:timur.toktassynov@gmail.com) / [LinkedIn](https://linkedin.com/in/ttoktassynov) / [GitHub](https://github.com/ttoktassynov) / 
-[Twitter](https://twitter.com/ttoktassynov)
+[Email](mailto:timur.toktassynov@gmail.com) / [GitHub](https://github.com/ttoktassynov) / [Facebook](https://fb.me/ttoktassynov)
 
 ### Education
 
@@ -73,6 +70,12 @@ This application is able to store bus stops and routes and identify shortest tri
 - **Technologies used:** C++, JSON, Graph
 
 ### Working Experience
+
+**Software Engineer** @ [Google](https://www.google.com/) *(Sep 2022 - Present)*
+
+**Software Developer** @ [InMusic Europe Ltd](https://www.inmusicbrands.com/) *(Apr 2022 - Aug 2022)*
+
+- Responsible for developing auto tests and performance tests
 
 **Intern Software Developer** @ [InMusic Europe Ltd](https://www.inmusicbrands.com/) *(Sep 2021 - Present)*
 
